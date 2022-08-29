@@ -1,0 +1,21 @@
+.Header {
+    background-color: #1f2232;
+    margin-left: 1vw;
+    margin-top: 1vh;
+    width: 98vw;
+    height: 80vh;
+}
+
+.HeaderContent {
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: start;
+    color: white;
+    margin-left: 10vw;
+}
+
+h1 {
+    font-size: 60px;
+}
