@@ -3,7 +3,7 @@
     margin-left: 1vw;
     margin-top: 1vh;
     width: 98vw;
-    height: 80vh;
+    height: 60vh;
 }
 
 .HeaderContent {
@@ -18,4 +18,9 @@
 
 h1 {
     font-size: 60px;
+}
+
+button {
+    height: 50px;
+    width: 150px;
 }
